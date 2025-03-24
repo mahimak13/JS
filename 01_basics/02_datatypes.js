@@ -1,0 +1,12 @@
+/*
+numbers
+string
+bigint
+boolean
+undefined
+null
+symbol
+*/
+console.log(typeof(18))
+console.log(typeof(null))
+console.log(typeof(undefined))
